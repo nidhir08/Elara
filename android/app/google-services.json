@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "341134101483",
+    "project_id": "elara-adee6",
+    "storage_bucket": "elara-adee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341134101483:android:fa1a9e061982336a64a7ae",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341134101483-igafleum41utmljbsdmplqdti25h89rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project",
+            "certificate_hash": "f9fb7c7f2429d8c31626e0d0bec637ca7d7b2c6e"
+          }
+        },
+        {
+          "client_id": "341134101483-spja8k3e2qrejbgve0ppvkga17l0m3qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkCz4EDYkbV14Ml9oR-9LNwHkSlxgYYcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341134101483-spja8k3e2qrejbgve0ppvkga17l0m3qe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "341134101483-cb8rnj7fqtoergol528h4vjobrd5a30t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
