@@ -32,3 +32,5 @@ Responsive design for various screen sizes.\
 UX design principles, including voice search and location detection.\
 API management and secure payment integration.\
 Team collaboration and problem-solving.
+
+Check the video https://drive.google.com/file/d/1a29JGwH2uQGR58iIcRYHEEOc2j6KNE79/view?usp=sharing
